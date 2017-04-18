@@ -1,0 +1,100 @@
+SERVICE = intangible elements around a product, such as: 
+	
+	* SLA
+	* UX
+	* support
+	* performance
+	* taking the risks of delivery
+	* taking the costs of delivery
+	* deliver an OUTCOME that is VALUE
+
+VALUE = a result of the combination of:
+
+	* UTILITY it does what the customer is looking for ( functional requirements ) 
+	* WARRANTY it is fit for purpose: continuity of delivery, SLA / availability, security, capacity ( non functional requirements )
+
+
+BUSINESS CASE = a justification for a process of delivery
+	* requirements
+	* costs
+	* objective
+
+ITIL LIFECYCLE
+	1 service strategy
+	2 service design
+	3 service design package
+	4 service transition ( development, training )
+	5 service operation
+	6 back to 1
+
+AGILE
+	* smaller, frequent releases
+	* smaller development time
+	* easier to identify errors early, when fixing is cheap
+	* QUALITY IS BUILT IN from he beginning
+	* automation minimize human error in processes with high levels of routine
+	* high level of involvment of operations to minimize downtime
+
+DASA: Devops Agile Skills Association
+
+COMPETENCE SKILLS
+	* courage
+	* leadership
+	* continuous integration
+
+KNOWLEDGE SKILLS
+	* architecture / design
+	* business value analysis
+	* engineering / infrastructure
+	* security
+	* testing
+	* programming
+	* continuous delivery
+
+CHALLENGES: 
+	* incidents ( loss of customer satisfaction and trust )
+	* manual processes cause errors
+	* backlog ( lack of staff )
+	* infrequent releases, or releases implementing features that are not required by the business
+	* organizational silos
+	* different mindsets, tools, environments ( test, staging, prod )
+	* blame game
+	* no feedback loops
+	* lack of interest in learning each others' tools
+
+Tension between Change and Stability ( wall of confusion )
+	* well defined responsibilities are needed 
+
+ANTIFRAGILITY
+	* getting better as a consequence of shock, disruption and disorder
+	* it means thriving on stressors
+	* going beyond resilience and robustness
+	* startups are antifragile, large organizations are fragile
+	* short devops loops USE disruption to improve a service
+
+
+REASONS TO DO DEVOPS
+	1 * improved speed to market ( faster delivery , agile )
+	2 * continuous integration and delivery ( faster, agile ): automated testing, automated build, auomtated release
+	3 * higher quality built in, fewer failures, more stability
+	4 * innovative process
+	5 * employees are empowered, more responsible and more happy
+	6 * more collaboration in the company, remove compartimentation remove waste of time, waiting, and augment communication and awareness
+	7 * reduced costs
+
+DEVOPS IS A CULTURAL AND OPERATIONAL MODEL THAT FOSTERS COLLABORATION TO ENABLE HIGH-PERFORMANCE IT TO ACHIEVE BUSINESS GOALS
+
+DEVOPS CORE PRINCIPLES	
+	1 * customer centric action ( short feedback loop ) 
+		- no bureaucracy
+		- no fear of asking questions 
+		- take risks
+		- innovate freely / experiment / fail fast
+	2 * create with end in mind ( understand the real needs of customers ) 
+	3 * end to end responsibility ( the whole team is accountable ) 
+	4 * cross functional and autonomous teams, taking own decisions 
+	5 * continuous improvement
+	6 * automate as much as possible
+
+	
+
