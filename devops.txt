@@ -85,16 +85,33 @@ REASONS TO DO DEVOPS
 DEVOPS IS A CULTURAL AND OPERATIONAL MODEL THAT FOSTERS COLLABORATION TO ENABLE HIGH-PERFORMANCE IT TO ACHIEVE BUSINESS GOALS
 
 DEVOPS CORE PRINCIPLES	
+
 	1 * customer centric action ( short feedback loop ) 
 		- no bureaucracy
 		- no fear of asking questions 
 		- take risks
 		- innovate freely / experiment / fail fast
-	2 * create with end in mind ( understand the real needs of customers ) 
+	2 * create with end in mind ( understand the real needs of customers )
+		- not a process oriented model, but oversee the complete picture
+		- focus on product value
+		- MVP
+		- small batches deliveries to get feedback about value  
 	3 * end to end responsibility ( the whole team is accountable ) 
-	4 * cross functional and autonomous teams, taking own decisions 
+	4 * cross functional and autonomous teams, taking own decisions
+		- T shaped profiles with breadth of knowledge and depth of expertise
+		- Complementary skills
+		- give positive feedback 
+		- high trust 
 	5 * continuous improvement
+		- if it hurts, do it more often
+		- fail fast
+		- experiment
+		- measure everything, if it's not measurable, cannot be improved ( perf, process, innovation, culture, support )
+		- LEARN
 	6 * automate as much as possible
+		- continuous improvement is helped by automation
+		- continuous delivery use automation to get into production fast and often
+		- cloud replace datacenter
+		- container based infrastructure ( infrastructure as code ) 
 
 	
-
