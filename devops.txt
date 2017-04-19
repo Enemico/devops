@@ -151,5 +151,27 @@ STRUCTURED PROBLEM SOLVING
 
 
 
-
+DEVOPS SKILLS 
 	
+	COMPETENCE
+		* Courage
+		* Team Building
+		* Continuous Improvement
+		* Leadership
+	kNOWLEDGE
+		* Infra engineering
+		* Biz value optimization
+			- Feedback
+			- SLA
+			- Management of activities
+			- Business cases
+		* Biz analysis
+			- Functional and non functional requirements
+			- Long term
+			- Data analysis
+		* Programming
+		* Continuous Delivery
+		* Test
+		* Security, Risk, Compliance
+		* Architecture and Design
+		
