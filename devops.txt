@@ -138,11 +138,11 @@ DEVOPS CORE PRINCIPLES
 STRUCTURED PROBLEM SOLVING
 
 	1: DMAIC
-		* DEFINE a symptom
-		* MEASURE collecting data
-		* ANALYZE data
-		* IMPROVE solution alternatives
-		* CONTROL
+		* DEFINE a symptom and describe the problem, ensure stakeholders agree on scope of problem
+		* MEASURE collecting data, validate the data
+		* ANALYZE and structure data, find cause of the problem
+		* IMPROVE solution alternatives, choose one
+		* CONTROL anchor a change, learn a lesson
 
 	2: KAIZEN
 		* See problem 
