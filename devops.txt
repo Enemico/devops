@@ -218,3 +218,55 @@ M - Measurable
 A - Achievable
 R - Relevant
 T - Time bonded
+
+Objectives = CSF 
+
+Critical Success Factors
+
+* all factors should lead to success
+
+they are linked to risks ( uncertainty )
+
+KPI
+
+Key Performance Indicators
+
+* intermediate milestones to success / waypoints on the ship's course to dest. 
+* they should also be SMART
+
+So monitoring is calculating your progress and monitoring your
+direction in relation to a course, as a GPS in the ship metaphore. 
+
+Measurements are based on metrics. 
+Based on metrics we perform measurements.
+
+To stay in control i need to know if the input is (in)correct. 
+The quality of your input in the process is defining the quality in your output
+and is influencing your measurement, and is coincident with your key performance
+indicators. Those helps identifying flags pointing to correction.
+
+Keep an eye on what you are measuring, don't measure too much, but learn from the pivot
+process what you really need to measure in relationship to your ( changing sometimes ) objectives. 
+
+Let's say you have a A > B > C process
+
+purchase, produce, sell
+
+You wanted to sell 400. Plan steps from left to right. 
+If you did not sell enough, you will look at the process backwards, 
+from right to left and check
+the previous step. Did you produce enough?
+If we keep on measuring key steps and experiment along the way we have a third way.
+
+CALMS
+
+Culture
+Automation
+Lean
+Measure
+Sharing information
+
+
+
+
+
