@@ -196,5 +196,25 @@ CULTURE
 ORGANIZATION
 
 GOVERNANCE
-	* 
-	
+
+PROCESSES
+
+	* SCRUM
+	* AGILE
+	* LEAN
+	* VALUE STREAM MAPPING
+	* STORY MAPPING
+
+AUTOMATION
+
+MEASURE
+
+vision > mission > goals / objective
+
+goals / objectives = SMART
+
+S - Specific
+M - Measurable
+A - Achievable
+R - Relevant
+T - Time bonded
