@@ -267,6 +267,11 @@ Measure
 Sharing information
 
 
+Performance metrics = lagging indicators
+
+VS.
+
+Performance predictors = leading indicators
 
 
 
