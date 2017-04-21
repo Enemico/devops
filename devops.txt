@@ -43,6 +43,9 @@ Demin Cycle ( Toyota Kata )
 	3 Check performance
 	4 Improve
 
+LEAN ( also Toyota Kata )
+	
+
 DASA: Devops Agile Skills Association
 
 COMPETENCE SKILLS
@@ -201,10 +204,34 @@ LEADERSHIP
 			 
 	Mission command relates very much to the DevOps world: both because the wold of devops is unpredictable and requires felxibility
 	and adaptiveness ( requires acceptance of unpredictability)       
+	
+	LEADERSHIP STYLE
+	
+	See, Ask why, Show respect
+	
+	See what is happening on the work floor, investigate why activities are carried out the way they are, and always deal with people
+	in a respectful way. The key in this process is giving and receive feedback  
+
+	The Feedback model
+	
+	To receive feedback
+		1) Listen without interruption
+		2) Avoid discussions or excuses
+		3) Check if there is clear understanding
+		4) Recognize other person's position, Thank her, Determine whether the feedback is applied
+
+	To give feedback 
+		1) Describe concrete observations
+		2) Explain what it does to you
+		3) Wait and listen to clarifying questions
+		4) Give concrete suggestions OR recognition / incentive
+	
+		
 
 	* Leave the team to decide how to fix the problem
-	* analyze to identify a direction
-	* cross the river, not build the bridge
+	* analyze and measure to identify what direction and what deviation
+	* ask to cross the river, not to build a bridge
+
 
 CULTURE
 
