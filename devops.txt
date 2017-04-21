@@ -252,6 +252,18 @@ Engineering culture: automate routines, don't focus only on features
 Effectiveness: Build with end in mind, ask why, avoid handovers, flexible processes, agile, lean
 Prodcut thinking: customer demos, user feedback on storyboard, customer interaction, product blog, you build it you run it
 Taking responsibility: Address derailment openly, let people figure out how to do things, reward responsibility, reward failure, transparency
+
+from --> to 
+
+group > team
+departments > crossfunctional teams
+fingerpointing > shared responsibility
+customer distance > closeness to customer
+specialist roles > generalist roles
+individual thinking > creative action
+Problem avoidance > fail fast
+
+
  
 ORGANIZATION
 
