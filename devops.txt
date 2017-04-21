@@ -44,7 +44,9 @@ Demin Cycle ( Toyota Kata )
 	4 Improve
 
 LEAN ( also Toyota Kata )
-	
+	* Focusing on reducing waste
+	* Types of waste: TIMWOODS
+		
 
 DASA: Devops Agile Skills Association
 
@@ -234,7 +236,23 @@ LEADERSHIP
 
 
 CULTURE
+	* No standard recipe to build a Devops culture
+	* 4 improvements to set in place: teambuilding, courage, contonuous improvement, leadership
+	
+Implementing a culture cannot really be a program, because following the a program is also about the time in which you are not following it.
+So what is necessary to do with culture is the same that is done with services and products: experiment, measuring, probing and deciding the next steps to take.
+It is not a straight line. 
 
+Facilitating activities in relation to cultural elements: 
+
+Continuous improvement: retrospectives, knowledge sessions, hackatons, empowerment
+Experimentation: time for sandbox, applaud ideas, safe to fail
+Build quality in: test automation, end to end responsibility, analysis of errors, process automation ( deploy, provision), monitoring
+Engineering culture: automate routines, don't focus only on features
+Effectiveness: Build with end in mind, ask why, avoid handovers, flexible processes, agile, lean
+Prodcut thinking: customer demos, user feedback on storyboard, customer interaction, product blog, you build it you run it
+Taking responsibility: Address derailment openly, let people figure out how to do things, reward responsibility, reward failure, transparency
+ 
 ORGANIZATION
 
 GOVERNANCE
