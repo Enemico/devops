@@ -82,7 +82,6 @@ ANTIFRAGILITY
 	* startups are antifragile, large organizations are fragile
 	* short devops loops USE disruption to improve a service
 
-
 REASONS TO DO DEVOPS
 	1 * improved speed to market ( faster delivery , agile )
 	2 * continuous integration and delivery ( faster, agile ): automated testing, automated build, auomtated release
@@ -153,12 +152,13 @@ STRUCTURED PROBLEM SOLVING
 
 DEVOPS SKILLS 
 	
-	COMPETENCE
+	COMPETENCE ( not-exactly technical skills / acquired skills )
 		* Courage
 		* Team Building
 		* Continuous Improvement
 		* Leadership
-	kNOWLEDGE
+
+	KNOWLEDGE ( more like technical skills ) 
 		* Infra engineering
 		* Biz value optimization
 			- Feedback
@@ -187,6 +187,21 @@ KEY ROLES
 
 LEADERSHIP
 	* Mission command vs. Central command
+		1) Mission command addresses the unpredictability, based on probabilistic assumptions. 
+		   it fosters decentralization, self-discipline, cooperation, high tempo and uses implicit and interactive communication.
+		   It is characterized by spontaneity, informality. 
+		   The leadership works by delegation, and it aims at transformation.
+		   Can be both horizontal and vertical and is interactive. 
+
+		2) Central command addresses the predictability, based on deterministic assumptions. 
+		   it fosters obedience, centralization, compliance, and the ability is focused at the top. The communication style is 
+		   formal and explicit, and it aims at coercion.
+		   The leadership works by directing and it aims at transaction. 
+		   It is mainly vertical and linear. 
+			 
+	Mission command relates very much to the DevOps world: both because the wold of devops is unpredictable and requires felxibility
+	and adaptiveness ( requires acceptance of unpredictability)       
+
 	* Leave the team to decide how to fix the problem
 	* analyze to identify a direction
 	* cross the river, not build the bridge
