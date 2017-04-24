@@ -263,8 +263,6 @@ specialist roles > generalist roles
 individual thinking > creative action
 Problem avoidance > fail fast
 
-
- 
 ORGANIZATION
 
 GOVERNANCE
@@ -274,6 +272,14 @@ PROCESSES
 	* SCRUM
 	* AGILE
 	* LEAN
+	    TIMWOODS
+	      * Transportation ( in IT, task switching )
+	      * Inventory ( in IT, unfinished work )
+	      * Waiting 
+	      * Overprocessing ( lack of understanding on what the customers wants )
+	      * Overproduction ( useless features )
+	      * Defects ( errors due to wrong processes ) 
+	      * Skills non utilized
 	* VALUE STREAM MAPPING
 	* STORY MAPPING
 
