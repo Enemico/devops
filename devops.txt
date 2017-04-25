@@ -271,8 +271,11 @@ PROCESSES
 
 	* SCRUM
 	* AGILE
-	* LEAN ( toyota Kata ): identify waste
-	    TIMWOODS
+	
+
+	* LEAN ( toyota Kata ): identify and eliminate waste
+	  types of waste:
+	    "TIMWOODS"
 	      * Transportation ( in IT, task switching )
 	      * Inventory ( in IT, unfinished work )
 	      * Waiting 
@@ -307,6 +310,7 @@ PROCESSES
 	    7) Determine value add and waste for each activity
 	      * Determine which activity adds value for the customer
 	      * Determine which activity doesn't - of these determine which ones are business value and which are waste
+	
 	* STORY MAPPING
 
 AUTOMATION
