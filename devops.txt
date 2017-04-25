@@ -271,7 +271,7 @@ PROCESSES
 
 	* SCRUM
 	* AGILE
-	* LEAN
+	* LEAN ( toyota Kata ): identify waste
 	    TIMWOODS
 	      * Transportation ( in IT, task switching )
 	      * Inventory ( in IT, unfinished work )
@@ -280,7 +280,33 @@ PROCESSES
 	      * Overproduction ( useless features )
 	      * Defects ( errors due to wrong processes ) 
 	      * Skills non utilized
-	* VALUE STREAM MAPPING
+
+	* VALUE STREAM MAPPING: map the process "as is from the baseline" to identify steps that do not add any value to the customer, therefore can be seen as waste.
+	  It is important to write out the Value Stream as a group process ( workshop ) where group members represent people that are part of the value chain as it is today.
+	  Not doing this as a group will reduce the acceptance rate and it will be lacking some information. 
+
+	  Steps:
+	    1) Customer Objectives and Process Actors
+	      VOC: voice of customer, important in later stages to determine if activities are adding to VOC or not.
+	    2) Define activities
+	    3) Define Work in Progress
+	      * What features/requirements/objects/activities are in progress? > WIP
+	      * For every element of WIP, indicate what is causing high overhead
+	    4) Identify Rework
+	      * Rework is waste ( stuff that is delivered to a previous step for reprocessing )
+	      * Define the actors where the rework happens and the causes
+	      * Can be useful to write out first time right levels
+	    5) Assess Activities
+	      * Some activities might be not optimized or difficult to handle or obsolete
+	    --AT THIS TIME THE PROCESS IS MORE OR LESS COMPLETE--
+   	    6) Determine Process Cycle Efficiency ( timing )
+	      * Process time - The real amount of time required to perform a task without interruptions
+	      * Lead time - The actual time it takes ( elapsed time )
+	      * Wait time - Time when no processing is done at all ( meeting can be an example here :-) )
+	      * Divide: Lead time / Process time = % efficiency ( ratio )
+	    7) Determine value add and waste for each activity
+	      * Determine which activity adds value for the customer
+	      * Determine which activity doesn't - of these determine which ones are business value and which are waste
 	* STORY MAPPING
 
 AUTOMATION
