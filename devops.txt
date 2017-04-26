@@ -1,3 +1,6 @@
+PRODUCT = artifact to be delivered to a customer
+	* features
+
 SERVICE = intangible elements around a product, such as: 
 	
 	* SLA
@@ -6,14 +9,14 @@ SERVICE = intangible elements around a product, such as:
 	* performance
 	* taking the risks of delivery
 	* taking the costs of delivery
-	* deliver an OUTCOME that is VALUE
+	* deliver an OUTCOME that is the VALUE
 
 VALUE = a result of the combination of:
 
-	* UTILITY it does what the customer is looking for ( functional requirements ) - fit for purpose 
-	* WARRANTY it is fit for purpose: continuity of delivery, SLA / availability, security, capacity ( non functional requirements ) - fit for use
+	* UTILITY it does what the customer is looking for ( functional requirements ) - so that is fit for purpose 
+	* WARRANTY continuity of delivery: SLA / availability, security, capacity ( non functional requirements ) - so that is fit for use
 	
-It is NOT only a financial term
+Value is NOT only a financial term
 
 
 BUSINESS CASE = a justification for a process of delivery
@@ -271,18 +274,30 @@ PROCESSES
 
 	* SCRUM
 	* AGILE
+	    The agile manifesto is based on the assumption that give higher priorities to: 
+	      - Individuals and interactions over processes and tools
+	      - Working software over comprehensive documentation
+	      - Customer collaboration over contract negotiation
+	      - Responding to change over following a plan
 	
+	    The manifesto is one thing, but the core of the idea is actually about:
+	       * smaller, frequent releases
+	       * smaller development time
+	       * easier to identify errors early, when fixing is cheap       	
+	       * QUALITY IS BUILT IN from he beginning                       	
+	       * automation minimize human error in processes with high level	
+	       * high level of involvment of operations to minimize downtime
 
-	* LEAN ( toyota Kata ): identify and eliminate waste
-	  types of waste:
-	    "TIMWOODS"
-	      * Transportation ( in IT, task switching )
-	      * Inventory ( in IT, unfinished work )
-	      * Waiting 
-	      * Overprocessing ( lack of understanding on what the customers wants )
-	      * Overproduction ( useless features )
-	      * Defects ( errors due to wrong processes ) 
-	      * Skills non utilized
+	* LEAN
+	    Based on Toyota Kata, focuses on removing different types of waste from the process: 
+	      The TIMWOODS types of waste	
+	        * Transportation ( in IT, switching contexts ) 
+                * Inventory ( in IT, unfinished work )
+	        * Waiting 
+	        * Overprocessing ( lack of understanding on what the customers wants )
+	        * Overproduction ( useless features )
+	        * Defects ( errors due to wrong processes ) 
+	        * Skills non utilized
 
 	* VALUE STREAM MAPPING: map the process "as is from the baseline" to identify steps that do not add any value to the customer, therefore can be seen as waste.
 	  It is important to write out the Value Stream as a group process ( workshop ) where group members represent people that are part of the value chain as it is today.
