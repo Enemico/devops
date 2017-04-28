@@ -116,7 +116,7 @@ DEVOPS CORE PRINCIPLES
 		- MVP
 		- small batches deliveries to get feedback about value
 
-	3 * end to end responsibility ( the whole team is accountable, from the cradle to the grave )
+	3 * end to end responsibility ( the whole team is accountable, "from the cradle to the grave" )
 		- if you builid it, you run it: you create a work pattern and you are more likely to "be it"
 
 	4 * cross functional and autonomous teams, taking own decisions
@@ -250,7 +250,7 @@ Facilitating activities in relation to cultural elements:
 
 Continuous improvement: retrospectives, knowledge sessions, hackatons, empowerment
 Experimentation: time for sandbox, applaud ideas, safe to fail
-Build quality in: test automation, end to end responsibility, analysis of errors, process automation ( deploy, provision), monitoring
+Build quality in: test automation, cradle to grave responsibility, analysis of errors, process automation ( deploy, provision), monitoring
 Engineering culture: automate routines, don't focus only on features
 Effectiveness: Build with end in mind, ask why, avoid handovers, flexible processes, agile, lean
 Prodcut thinking: customer demos, user feedback on storyboard, customer interaction, product blog, you build it you run it
