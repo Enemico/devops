@@ -15,8 +15,9 @@ Software:
 		* Kravspec blir til en backlog, så liten så mulig blir sett i gang, for å få en MVP
 		* Den delen av backlog'en som settes i gang er en sprint
 		* i hver sprint blir en user story lagt til en task
-		* i en sprint, det er ikke lov å forstyrre med andre oppgaver
+		* i en sprint, det er ikke lov å forstyrre med andre oppgaver eller justeringer. De går i backlog'en
 		* product owner / scrum master
+		* review / demo / retrospective
 		* dette går på tid ( sprint ) og funker best på en stor produkt
 	
 	[kanban]
