@@ -1,0 +1,2 @@
+* infra: Teamcity, Jenkins, TFS
+* cloud: TravisCI, CircleCI
