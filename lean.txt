@@ -16,4 +16,10 @@ Software:
 		* Den delen av backlog'en som settes i gang er en sprint
 		* i hver sprint blir en user story lagt til en task
 		* i en sprint, det er ikke lov å forstyrre med andre oppgaver
-		* product owner / scrum master 
+		* product owner / scrum master
+		* dette går på tid ( sprint ) og funker best på en stor produkt
+	
+	[kanban]
+		* design -> utvikling -> prod
+		* grense på maks # på hver fase (små batsjer)
+		* dette går ikke på tid og funker best da du ikke har kontroll på produktet
