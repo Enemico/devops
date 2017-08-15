@@ -1,0 +1,19 @@
+30 talls - bilproduksjon - japan - kravstore kjøpere - færre kjøpere, mere skreddsydde biler
+	* Toyota production system - små batcher ( oppdage feil tidligere, høyere kvalitet på materialer, færre folk på team, som blir mere ansvarliggjort )
+	* på 70 og 80 talls utkonkurrerte japanerne europeere og amerikanerne på kvalitet og lønn
+	* "The toyota way" bok
+	* istedet av å pusje batchene til neste steg, neste steg bestiller batch'en fra forrige steg
+		- de som fra forrige steg er ledige, kan hjelpe på neste steg
+
+Software:
+	* Kravspec -> design -> utvikling -> testing -> akseptanse -> produksjon [waterfall]
+	
+	[scrum]	
+		* Kravspec blir delte i user stories ( beskriver behovene men ikke nød. løsningene )
+			- "as a user i want to..., because"
+		
+		* Kravspec blir til en backlog, så liten så mulig blir sett i gang, for å få en MVP
+		* Den delen av backlog'en som settes i gang er en sprint
+		* i hver sprint blir en user story lagt til en task
+		* i en sprint, det er ikke lov å forstyrre med andre oppgaver
+		* product owner / scrum master 
