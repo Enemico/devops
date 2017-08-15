@@ -24,3 +24,22 @@ Software:
 		* design -> utvikling -> prod
 		* grense på maks # på hver fase (små batsjer)
 		* dette går ikke på tid og funker best da du ikke har kontroll på produktet
+
+Feilhåndtering: 
+	A - hovedfunksjonaliteten ikke funker
+	B - det finnes workaround
+	C - nice to have
+
+Problem og løsning:
+	* begge kan være kjente eller ukjente
+		* Eksempel, hus: problemer er kjent ( du kan beskrive og kjenner dem ). Løsningene kjennes godt også. Waterfall funker her.
+		  Vitenskapelig utvikling også ligger her
+		* Software: problemer er kjent men ikke løsningene. Her funker agile / scrum / kanban, fordi vi har kunnskap.
+		* Hvis vi ikke har kunnskap eller kjenner ikke helt hvilke problemet skal vi treffe, der er lean som gjelder. Hypotese tilnærming til hva vi skal gjøre. Teste hele tiden med brukere. 
+		* Ukjent problem men kjent løsning: der bruker man SAP :D
+
+	* Hypotesdrevet utvikling: Build - Measure - Learn
+		* hypoteser blir til en funksjonalitet som skal testet og resultatene måles, også lærer vi, og til neste syklus blir det noe nytt i bakloggen.
+			- målingsmetodikk skal bestemmes før man begynner å lage fuksjonaliteten.
+			- utfordringen er også å begrense seg til MVP
+								
