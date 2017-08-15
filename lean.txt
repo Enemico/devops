@@ -41,5 +41,4 @@ Problem og løsning:
 	* Hypotesdrevet utvikling: Build - Measure - Learn
 		* hypoteser blir til en funksjonalitet som skal testet og resultatene måles, også lærer vi, og til neste syklus blir det noe nytt i bakloggen.
 			- målingsmetodikk skal bestemmes før man begynner å lage fuksjonaliteten.
-			- utfordringen er også å begrense seg til MVP
-								
+			- utfordringen er også å begrense seg til MVP					
