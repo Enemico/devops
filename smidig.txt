@@ -1,4 +1,4 @@
 ### det her er fra innafor onboarding
 
 -> det er noe felles problemer mellom waterfall og agile, men i agile er det mye raskere å komme til et tilstand hvor de er tidliggjorte.
--> 
+->  
